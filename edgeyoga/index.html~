@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Welcome to Edge Yoga</title>
+<link href="edge.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+body, html {margin:0; 
+			padding:0; 
+			border:0;
+}
+
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body bgcolor="#4b4b4b" background="images/main_tile.gif" onload="MM_preloadImages('images/buttons/schedule_up.gif','images/buttons/descriptions_up.gif','images/buttons/bios_up.gif','images/buttons/policies_up.gif','images/buttons/links_up.gif','images/buttons/news_up.gif','images/buttons/contact_up.gif')">
+<p></p>
+<table width="991" border="0" align="center" cellpadding="0" cellspacing="0" background="images/front_mainback2.jpg">
+  <tr>
+    <td><table width="991" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="79">&nbsp;</td>
+        <td width="581"><img src="images/edge_yoga_logo.gif" width="156" height="101" /></td>
+        <td width="331"><font color="#FFFFFF">2440 Wilson Blvd. <img src="images/bullet.gif" width="5" height="10" /> #201       Arlington, VA 22201<br />
+          (703)243-8866 <img src="images/bullet.gif" width="5" height="10" /> <a href="mailto:information@edgeyoga.com"><font color="#e9ba66">information@edgeyoga.com</font></a></font></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/break1.gif" width="991" height="10" /></td>
+  </tr>
+  <tr>
+    <td><table width="991" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" width="30" height="10" /></td>
+        <td width="914"><table width="914" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td><table width="214" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/buttons/welcome.gif" width="214" height="64" /></td>
+              </tr>
+              <tr>
+                <td><a href="http://clients.mindbodyonline.com/ws.asp?studioid=609" target="_blank" onmouseover="MM_swapImage('Image5','','images/buttons/schedule_up.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/buttons/schedule.gif" name="Image5" width="214" height="33" border="0" id="Image5" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="classes.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/buttons/descriptions_up.gif',1)"><img src="images/buttons/descriptions.gif" name="Image6" width="214" height="31" border="0" id="Image6" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="teachers.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/buttons/bios_up.gif',1)"><img src="images/buttons/bios.gif" name="Image7" width="214" height="29" border="0" id="Image7" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="pricing.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/buttons/policies_up.gif',1)"><img src="images/buttons/policies.gif" name="Image8" width="214" height="31" border="0" id="Image8" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="links.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/buttons/links_up.gif',1)"><img src="images/buttons/links.gif" name="Image9" width="214" height="31" border="0" id="Image9" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="news.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/buttons/news_up.gif',1)"><img src="images/buttons/news.gif" name="Image10" width="214" height="29" border="0" id="Image10" /></a></td>
+              </tr>
+              <tr>
+                <td><a href="contact.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/buttons/contact_up.gif',1)"><img src="images/buttons/contact.gif" name="Image12" width="214" height="29" border="0" id="Image12" /></a></td>
+              </tr>
+
+            </table></td>
+            <td width="700">
+			
+						
+	<div id="TICKER" style="border-top: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204); overflow: hidden; display: block; background-color: rgb(255, 255, 255); width: 700px;" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false"><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+	  <td nowrap="nowrap" bgcolor="#FFFFCC"><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" id="TICKER_BODY" width="100%">
+		<span style="background-color: rgb(185, 106, 44);"> &nbsp; &nbsp;  </span></span><span style="font-family: Arial; font-size: 12px; background-color: rgb(185, 106, 44);" width="100%"><font color="#ffffff"><b>Notice!</b></font></span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><span style="background-color: rgb(185, 106, 44);">&nbsp; &nbsp; </span> &nbsp; 
+		<b>Edge Yoga will be on a modified schedule from Friday 12/23 to Sunday 
+		1/1, please check our online schedule for details!! </b>&nbsp; 
+		<span style="background-color: rgb(241, 201, 125);"> &nbsp; &nbsp;  </span> 
+		</span><span style="font-family: Arial; font-size: 12px; background-color: rgb(241, 201, 125);" width="100%"><font color="#ffffff"><b>Notice!</b></font></span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><span style="background-color: rgb(241, 201, 125);">&nbsp; &nbsp; </span> &nbsp; 
+		</span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%">&nbsp;</span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><b> </b> 
+		</span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><b> &nbsp;</b></span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><b>Edge 
+		Yoga will be on a modified schedule from Friday 12/23 to Sunday 1/1, 
+		please check our online schedule for details!! </b> 
+		</span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%"><b>&nbsp;</b></span><span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%">&nbsp; 
+		<span style="background-color: rgb(153, 178, 221);">  </span></span><span style="font-family: Arial; font-size: 12px; background-color: rgb(153, 178, 221);" width="100%"><b><font color="#ffffff">&nbsp; &nbsp;Notice!&nbsp; &nbsp;</font></b></span> 
+		<span style="font-family: Arial; font-size: 12px; color: rgb(68, 68, 68);" width="100%">
+		<b>Edge Yoga will be on a modified schedule from Friday 12/23 to Sunday 
+		1/1, please check our online schedule for details!! </b> 
+		</span></span>
+		&nbsp;</td>
+	</tr></tbody></table></div>
+				<script type="text/javascript" src="webticker_lib.html" language="javascript"></script>
+			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="700" height="325">
+              <param name="movie" value="welcome.swf" />
+              <param name="quality" value="high" />
+              <embed src="welcome.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="700" height="325"></embed>
+            </object></td>
+          </tr>
+        </table></td>
+        <td><img src="images/spacer.gif" width="47" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><table width="914" border="0" align="center" cellpadding="15" cellspacing="0" background="images/front_textback.jpg">
+          <tr>
+            <td width="189" valign="top"><center>
+              <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=2440+Wilson+Blvd.+Arlington,+VA+22201&sll=38.890181,-77.088404&sspn=0.006297,0.008841&ie=UTF8&ll=38.890181,-77.088404&spn=0.006297,0.008841&t=h&z=17&iwloc=addr">
+              <img src="images/map.jpg" width="189" height="125" /></a><span class="directions"><br />
+                Edge Yoga is located at 2440 Wilson Boulevard, Suite 201 right at the intersection of Wilson Boulevard and North Barton Street. Our studio is a two-minute walk from the Courthouse metro station.<br />
+                <i><img src="images/gray-break.gif" width="150" height="5" /><br />
+                Visit us at <a href="http://www.edgehealthandfitness.com">www.edgehealthandfitness.com</a> for more on personal fitness </i> </span>
+            </center></td>
+            <td width="386" valign="top"><p>Our instructors are trained in variety of sub disciplines of hatha yoga including Vinyasa (flow of breath with movement), Iyengar, Anusara, &amp; Ashtanga, to name a few. Our instructors are encouraged to explore and incorporate any styles/disciplines of yoga into their classes. The individual instructor's teaching style represents his or her individuality and spirit. </p>
+                    <p>Checkout our Mind Body Online Reservation System and up 
+					to date teaching schedule, all substitutions and class 
+					cancelations will be listed through our online scheduling 
+					system.</p>
+			<p>&nbsp;</p>
+              <p><br />
+                  </p></td>
+            <td width="214" valign="top"><p>Please email me at <a href="mailto:information@edgeyoga.com">information@edgeyoga.com</a> for more information on classes and upcoming workshops!</p>
+                    <p>Also visit us at the Edge Health &amp; Fitness information page for more information on our one on one Personal Training or email <a href="mailto:mark.greim@edgehealthandfitness.com">mark.greim@edgeyoga.com</a></p></td>
+            <td width="5">&nbsp;</td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/footer.gif" width="991" height="34" /></td>
+  </tr>
+</table>
+</body>
+</html>

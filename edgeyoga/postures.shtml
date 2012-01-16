@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>) Edge Yoga | Basic Postures and Descriptions (</title>
+<link href="edge.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+body, html {margin:0; 
+			padding:0; 
+			border:0;
+}
+
+</style>
+<script type="text/javascript">
+<!--
+var myPix = new Array("images/headers/header_bamboo1.jpg","images/headers/header_bamboo2.jpg","images/headers/header_bamboo3.jpg","images/headers/header_bamboo4.jpg","images/headers/header_bamboo5.jpg","images/headers/header_bamboo6.jpg","images/headers/header_bamboo7.jpg","images/headers/header_bamboo8.jpg","images/headers/header_bamboo9.jpg","images/headers/header_bamboo10.jpg")
+
+function choosePic() {
+        if (document.images) {
+                randomNum = 
+Math.floor((Math.random() * 10))
+                document.myPicture.src = myPix[randomNum]
+        }
+}
+//-->
+</script>
+</head>
+<body bgcolor="#4b4b4b" background="images/main_tile.gif" onLoad="choosePic();">
+<table align="center" cellpadding="0" cellspacing="0" style="background-image:url(images/front_mainback.jpg); 
+ background-repeat: repeat-x;">
+  <tr>
+    <td><table width="991" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="79">&nbsp;</td>
+        <td width="581"><a href="index.html"><img src="images/edge_yoga_logo.gif" width="156" height="101" border="0" /></a></td>
+        <td width="331"><font color="#FFFFFF">2440 Wilson Blvd. <img src="images/bullet.gif" width="5" height="10" /> #201       Arlington, VA 22201<br />
+          (703)243-8866 <img src="images/bullet.gif" width="5" height="10" /> <a href="mailto:information@edgeyoga.com"><font color="#e9ba66">information@edgeyoga.com</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/break1.gif" width="991" height="10" /></td>
+  </tr>
+  <tr>
+    <td><table width="991" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" width="30" height="10" /></td>
+        <td width="914"><table width="914" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td valign="top"><!--#include file="navigation.html"--></td>
+            <td width="700" valign="top"><table width="700" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/spacer.gif" name="myPicture" width="700" height="75" id="myPicture" /></td>
+              </tr>
+              <tr>
+                <td><img src="images/title_postures.gif" width="700" height="44" /></td>
+              </tr>
+              <tr>
+                <td><table width="700" bgcolor="#fff4dc" class="page">
+                  <tr>
+                    <td><p><img src="images/position1.gif" width="112" height="142" align="left" /><span class="titlered1">Easy Posture or Sukhasana</span><br />
+                      Sit cross-legged with the heel of one foot in front of the ankle of the other foot with hands on knees. Stay slightly extended through your spine and evenly push both sides of the pelvis into the floor. Allow the knees to gently lower. Use a blanket under the hips if your knees are more than 6 inches off the mat, this will help support extension through your spine. </p>
+                      <p>&nbsp; </p></td>
+                  </tr>
+                  <tr>
+                    <td> <img src="images/position2.gif" width="112" height="96" align="left" /><span class="titleblue1">Adho Mukha Svanasana (Downward Facing Dog)</span><br />
+                      Start on your hands and knees. Keep your legs about hip width apart and your arms shoulder width apart. Spread your fingers attempting to press through the base of knuckles while keeping fingers pointing straight ahead. Externally rotate the shoulders by trying to turn the inside of your elbows forward. Keep the instep of your feet parallel with the soles of the feet drawing down toward the mat. Draw your spine toward the front of your thighs (extending the spine slightly). The goal is to lengthen the spine while keeping your legs straight and your feet flat on the ground. In the beginning bend the knees a bit and and keep your heels raised in order to relieve some of the pressure from your hamstrings, which if tight, can cause spinal flexion. The important thing is to work on lengthening the spine. Keep your shoulders drawing from your ears by retracting your shoulder blades (this will also help keep the spine slightly extended). </td>
+                  </tr>
+                  <tr>
+                    <td><p><img src="images/position3.gif" width="112" height="90" align="left" /><span class="titlered1">Uttanasana (Standing Forward Fold)</span><br />
+                      Flex from the hips, bring the arms forward and down toward the floor. Visualize spilling the pelvis forward, as you fold attempt to stay extended (straight) through the spine. Try to keep the knees extended and the spine straight, using blocks under the hands or placing the hands on your thighs or shins to help support the torso and maintain a light spinal extension.</p>                      </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td><img src="images/spacer.gif" width="47" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><!--#include file="footer.html"-->
+		</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/footer.gif" width="991" height="34" /></td>
+  </tr>
+</table>
+</body>
+</html>

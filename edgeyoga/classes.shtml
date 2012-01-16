@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>) Edge Yoga | Class Descriptions (</title>
+<link href="edge.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+body, html {margin:0; 
+			padding:0; 
+			border:0;
+}
+
+</style>
+<script type="text/javascript">
+<!--
+var myPix = new Array("images/headers/header_bamboo1.jpg","images/headers/header_bamboo2.jpg","images/headers/header_bamboo3.jpg","images/headers/header_bamboo4.jpg","images/headers/header_bamboo5.jpg","images/headers/header_bamboo6.jpg","images/headers/header_bamboo7.jpg","images/headers/header_bamboo8.jpg","images/headers/header_bamboo9.jpg","images/headers/header_bamboo10.jpg")
+
+function choosePic() {
+        if (document.images) {
+                randomNum = 
+Math.floor((Math.random() * 10))
+                document.myPicture.src = myPix[randomNum]
+        }
+}
+//-->
+</script>
+</head>
+<body bgcolor="#4b4b4b" background="images/main_tile.gif" onLoad="choosePic();">
+<table align="center" cellpadding="0" cellspacing="0" style="background-image:url(images/front_mainback.jpg); 
+ background-repeat: repeat-x;">
+  <tr>
+    <td><table width="991" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="79">&nbsp;</td>
+        <td width="581"><a href="index.html"><img src="images/edge_yoga_logo.gif" width="156" height="101" border="0" /></a></td>
+        <td width="331"><font color="#FFFFFF">2440 Wilson Blvd. <img src="images/bullet.gif" width="5" height="10" /> #201       Arlington, VA 22201<br />
+          (703)243-8866 <img src="images/bullet.gif" width="5" height="10" /> <a href="mailto:information@edgeyoga.com"><font color="#e9ba66">information@edgeyoga.com</font></a></font></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/break1.gif" width="991" height="10" /></td>
+  </tr>
+  <tr>
+    <td><table width="991" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" width="30" height="10" /></td>
+        <td width="914"><table width="914" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td valign="top"><!--#include file="navigation.html"--></td>
+            <td width="700" valign="top"><table width="700" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/spacer.gif" name="myPicture" width="700" height="75" id="myPicture" /></td>
+              </tr>
+              <tr>
+                <td><img src="images/title_classdesc.gif" width="700" height="44" /></td>
+              </tr>
+              <tr>
+                <td><table width="700" bgcolor="#fff4dc" class="page">
+                  <tr>
+                    <td><p class="titlered1"><b>&quot;Drop-ins&quot; are welcomed &amp; encouraged at all of our classes!!!</b></p>
+                      <table width="250" align="right" class="callout" hspace=15 vspace=15>
+                        <tr>
+                          <td><p align="center" class="callouttext">&nbsp;</p></td>
+                          <td bgcolor="#4b4b4b">
+<!--	<div style="position: absolute; width: 100px; height: 124px; z-index: 1; left:717px; top:324px" id="layer1"> awoods -->
+<APPLET archive = "Old%20Site/ptviewer.jar" code="ptviewer.class" width=175 height=126>
+<PARAM NAME=file value="edge123_pano.jpg">
+<PARAM name=wait value="edge_wait.gif">
+<PARAM name=frame value="edge_bar.gif">
+<param name=barcolor value="0000ff">
+<PARAM name=bgcolor value="ffffff">
+<PARAM name=auto value="0.0">
+<PARAM name=panmin value="-180">
+<PARAM name=panmax value="180">
+<PARAM name=pan value="0">
+<PARAM name=tiltmin value="-90">
+<PARAM name=tiltmax value="90">
+<PARAM name=tilt value="0">
+<PARAM name=fovmin value="12">
+<PARAM name=fovmax value="165">
+<PARAM name=fov value="70">
+<PARAM NAME="shotspot0" VALUE=" x174 y217 a191 b238 u'ptviewer:startAutoPan(-0.9, 0, 1)' ">
+<PARAM NAME="shotspot1" VALUE=" x191 y217 a208 b238 u'ptviewer:startAutoPan(0.9, 0, 1)' ">
+<PARAM NAME="shotspot2" VALUE=" x216 y217 a246 b228 u'ptviewer:startAutoPan(0, 0.9, 1)' ">
+<PARAM NAME="shotspot3" VALUE=" x216 y227 a246 b238 u'ptviewer:startAutoPan(0, -0.9, 1)' ">
+<PARAM NAME="shotspot4" VALUE=" x262 y218 a278 b238 u'ptviewer:startAutoPan(0, 0, 0.99)' ">
+<PARAM NAME="shotspot5" VALUE=" x278 y218 a294 b238 u'ptviewer:startAutoPan(0, 0, 1.01)' ">
+<PARAM NAME="shotspot6" VALUE=" x302 y217 a355 b238 u'http://www.easypano.com/' t'_blank' ">
+</APPLET></div>
+&nbsp;<p>&nbsp;</p>
+							<p>&nbsp;</p>
+							<p>&nbsp;</p>
+							<p align="center">
+							<span class="callouttext">Click on the above photo 
+							for a virtual tour of our studio!</span></p>
+							<p>
+							<span class="callouttext"><b>The various Disciplines or Styles of yoga we incorporate into our teaching at Edge Yoga primarily include: </b> </span>
+                            </p>
+                            <p class="callouttext">(1) Sri Swami Satchidananda described Integral Yoga as: &quot;...a flexible combination of specific methods to develop every aspect of the individual: physical, intellectual, and spiritual. It is a scientific system which integrates the various branches of Yoga in order to bring about a complete and harmonious development of the individual.&quot;</p>
+                            <p class="callouttext">(2) Vinyasa, or the flow of breath with movement is a vigorous style that focuses on strength and grace trough control. Flow yoga stems from Ashtanga Yoga, which means 'eight-limbed'. Vinyasa classes are a series of flowing postures linked by the breath to detoxify, strengthen the body, &amp; nurture life force.</p>
+                            <p align="center" class="callouttext"><span class="titlered1">Edge Yoga</span><b><br />
+  2440 Wilson Blvd. # 201<br />
+  Arlington, VA 22201 <a href="mailto:information@edgeyoga.com">information@edgeyoga.com</a></b></p></td>
+                        </tr>
+                      </table>                      <p><b>At Edge Yoga we do not require our students to sign up for class sessions at a particular time or with a single teacher.</b> We encourage students to drop in to any class that is appropriate to their hatha yoga experience &amp; physical capability.</p>
+                      <p>How to understand the levels described in our class schedule</p>
+                      <p><i>(the descriptions appear in the order of general difficulty &amp; represents a standard progression)</i></p>
+                      <p><span class="titleblue2">Yoga I</span><br />
+                        <b>Our level one classes are appropriate for most ages, body types, &amp; experience levels.</b> 
+						In our level one classes our instruction focuses on body 
+						alignment &amp; development of strength and body awareness 
+						within each student. These classes can be moderately challenging 
+						even for an advanced practitioner.</p>
+                      <p><span class="titlered2">Mixed Level Yoga</span><br />
+                        <b>Are appropriate for most practitioners</b> but assume the student has had some exposure to hatha yoga. The instructors will provide a series of asana modifications allowing even the most advanced practitioner a challenge. These classes are still moderately difficult and are physically challenging.</p>
+                      <p><span class="titleblue2">Mixed Level Yoga I/II</span><br />
+                        Yoga I/II classes are faster paced and assume a deeper understanding of the foundational asana. In our I/II classes we begin to explore setting up more advanced asana including headstands and arm balances while developing the strength and body awareness to safely execute these more advanced asana.</p>
+                      <p><span class="titlered2">&quot;Power Yoga&quot;</span><br />
+                        Our Power Yoga classes represent a mixture of different styles, but are similar in intensity to 
+						an intermediate Ashtanga class. These classes move quickly and are <i><b>physically demanding</b></i>. Our Power Yoga classes focus on developing the strength to perform asana execution in our Yoga II classes acting as a bridge between Yoga I and II. Students taking a &quot;Power Yoga&quot; class should either have an athletic background or have an understanding of body alignment in hatha yoga postures and heightened body awareness &amp; strength. Some prior yoga experience is required.<br />
+                      </p>
+                      <p><span class="titleblue2">Level 2 / Yoga II</span><br />
+                        Our level two classes assume the student has a foundational understanding of basic asana &amp; asana modification. In our level two classes the instructors work with the students to develop execution &amp; alignment in advanced postures &amp; flows involving a variety of inversions and arm balances. <b>INSTRUCTOR PERMISSION SUGGESTED</b>.</p>
+                      <p>&nbsp;</p></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td><img src="images/spacer.gif" width="47" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><!--#include file="footer.html"-->
+		</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/footer.gif" width="991" height="34" /></td>
+  </tr>
+</table>
+</body>
+</html>

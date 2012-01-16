@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>) Edge Yoga | Teacher Bios (</title>
+<link href="edge.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+body, html {margin:0; 
+			padding:0; 
+			border:0;
+}
+
+</style>
+<script type="text/javascript">
+<!--
+var myPix = new Array("images/headers/header_bamboo1.jpg","images/headers/header_bamboo2.jpg","images/headers/header_bamboo3.jpg","images/headers/header_bamboo4.jpg","images/headers/header_bamboo5.jpg","images/headers/header_bamboo6.jpg","images/headers/header_bamboo7.jpg","images/headers/header_bamboo8.jpg","images/headers/header_bamboo9.jpg","images/headers/header_bamboo10.jpg")
+
+function choosePic() {
+        if (document.images) {
+                randomNum = 
+Math.floor((Math.random() * 10))
+                document.myPicture.src = myPix[randomNum]
+        }
+}
+//-->
+</script>
+</head>
+<body bgcolor="#4b4b4b" background="images/main_tile.gif" onLoad="choosePic();">
+<table align="center" cellpadding="0" cellspacing="0" style="background-image:url(images/front_mainback.jpg); 
+ background-repeat: repeat-x;">
+  <tr>
+    <td><table width="991" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="79">&nbsp;</td>
+        <td width="581"><a href="index.html"><img src="images/edge_yoga_logo.gif" width="156" height="101" border="0" /></a></td>
+        <td width="331"><font color="#FFFFFF">2440 Wilson Blvd. <img src="images/bullet.gif" width="5" height="10" /> #201       Arlington, VA 22201<br />
+          (703)243-8866 <img src="images/bullet.gif" width="5" height="10" /> <a href="mailto:information@edgeyoga.com"><font color="#e9ba66">information@edgeyoga.com</font></a></font></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/break1.gif" width="991" height="10" /></td>
+  </tr>
+  <tr>
+    <td><table width="991" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" width="30" height="10" /></td>
+        <td width="914"><table width="914" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td valign="top"><!--#include file="navigation.html"--></td>
+            <td width="700" valign="top"><table width="700" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/spacer.gif" name="myPicture" width="700" height="75" id="myPicture" /></td>
+              </tr>
+              <tr>
+                <td><img src="images/title_pricing.gif" width="700" height="44" /></td>
+              </tr>
+              <tr>
+                <td><table width="700" bgcolor="#fff4dc" class="page">
+                  <tr>
+                    <td><table width="250" align="right" class="callout" hspace="15" vspace="15">
+                      <tr>
+                        <td><p class="callouttext">&nbsp;</p></td>
+                      <td bgcolor="#4b4b4b"><span class="callouttext"><b><img src="images/callout_pricing.jpg" width="230" height="215" /><br />
+                      </b></span><span class="titleblue3"><b>Drop-in Policies</b> </span>
+                      <p class="callouttext"><b>&quot;Drop-Ins&quot; are welcomed &amp; encouraged at each class!!!</b></p>
+                      <p class="callouttext">At Edge Yoga we want to expose our students to as many different styles &amp; teaching philosophies as possible.</p>
+                      <p class="callouttext">There is no fixed class schedule &amp; passes are accepted at every class &amp; are good 6 months from the date of purchase!</p>
+                      <p class="callouttext">Mats are available through the studio, but students are encouraged to bring a towel and bottled water to each class</p>
+                      <p align="center" class="callouttext"><span class="titleblue3">Edge Yoga</span><b><br />
+  2440 Wilson Blvd. # 201<br />
+  Arlington, VA 22201 <a href="mailto:information@edgeyoga.com">information@edgeyoga.com</a></b></p></td>
+                      </tr>
+                    </table>                      <p class="titlered1">Pricing &amp; Studio Services</p>
+                      <p><span class="titleblue2">
+						<span style="text-decoration: none">(1) Drop-in &amp; Multi-class passes</span></span><br />
+                        As a drop in the fee is <b>$16.00 per class or $13.00 for students with a valid local school ID</b>. Class passes are available but can currently only be purchased at the studio via check or cash. A f<b>ive class pass is available at $75.00 ($15.00 a class); ten class pass is available for $140.00 ($14.00 a class); &amp; a twenty class pass for $260.00 ($13.00 a class)</b>.</p>
+                      <p>Please note all pass sales are <b>non transferable &amp; good for ONLY 6 MONTHS</b> from the date of purchase.</p>
+                      <p><span class="titlered2">
+						<span style="text-decoration: none">(2) Monthly Membership 
+						</span></span><br />For a 3 month commitment at <b>$125 
+						per month</b> a student can attend an unlimited number 
+						of weekly classes. After the initial three month 
+						commitment the contract reverts to a month to month 
+						basis with a 30 day cancelation notice requirement.</p>
+					<p><span class="titleblue2">
+					<span style="text-decoration: none">(3) 1 on 1 In-Home Yoga Instruction</span></span><br />
+                        One on One in home sessions are also available through Edge Yoga at a cost of <b>$150.00 / hr</b> but are left to the discretion of the individual instructors.</p>
+					<p><span class="titlered2">
+					<span style="text-decoration: none">(4) 1 on 1 Yoga Instruction</span></span><br />
+                        One hour One on One sessions are available at a cost of <b>$80.00 / per 60 minute session</b> through the studio during non reserved times.</p>
+                      <p>&nbsp;</p>
+                      <p><br />
+                        &nbsp;</p>
+                      <p> </p>
+                      <p>&nbsp;</p></td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td><img src="images/spacer.gif" width="47" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><!--#include file="footer.html"-->
+		</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/footer.gif" width="991" height="34" /></td>
+  </tr>
+</table>
+</body>
+</html>

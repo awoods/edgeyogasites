@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>) Edge Yoga | Upcoming News and Events (</title>
+<link href="edge.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+body, html {margin:0; 
+			padding:0; 
+			border:0;
+}
+
+.med{font-size:medium;font-weight:normal;padding:0;margin:0}#res{padding-right:1em}.g{margin:1em 0}table.MsoTableGrid
+	{border:1.0pt solid windowtext;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif"}
+</style>
+<script type="text/javascript">
+<!--
+var myPix = new Array("images/headers/header_bamboo1.jpg","images/headers/header_bamboo2.jpg","images/headers/header_bamboo3.jpg","images/headers/header_bamboo4.jpg","images/headers/header_bamboo5.jpg","images/headers/header_bamboo6.jpg","images/headers/header_bamboo7.jpg","images/headers/header_bamboo8.jpg","images/headers/header_bamboo9.jpg","images/headers/header_bamboo10.jpg")
+
+function choosePic() {
+        if (document.images) {
+                randomNum = 
+Math.floor((Math.random() * 10))
+                document.myPicture.src = myPix[randomNum]
+        }
+}
+//-->
+</script>
+</head>
+<body bgcolor="#4b4b4b" background="images/main_tile.gif" onLoad="choosePic();">
+<table align="center" cellpadding="0" cellspacing="0" style="background-image:url(images/front_mainback.jpg); 
+ background-repeat: repeat-x;">
+  <tr>
+    <td><table width="991" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="79">&nbsp;</td>
+        <td width="581"><a href="index.html"><img src="images/edge_yoga_logo.gif" width="156" height="101" border="0" /></a></td>
+        <td width="331"><font color="#FFFFFF">2440 Wilson Blvd. <img src="images/bullet.gif" width="5" height="10" /> #201       Arlington, VA 22201<br />
+          (703)243-8866 <img src="images/bullet.gif" width="5" height="10" /> <a href="mailto:information@edgeyoga.com"><font color="#e9ba66">information@edgeyoga.com</a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/break1.gif" width="991" height="10" /></td>
+  </tr>
+  <tr>
+    <td><table width="991" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/spacer.gif" width="30" height="10" /></td>
+        <td width="914"><table width="914" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td valign="top"><!--#include file="navigation.html"--></td>
+            <td width="700" valign="top"><table width="700" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td><img src="images/spacer.gif" name="myPicture" width="700" height="75" id="myPicture" /></td>
+              </tr>
+              <tr>
+                <td><img src="images/title_workshops.gif" width="700" height="44" /></td>
+              </tr>
+              <tr>
+                <td><table width="700" bgcolor="#fff4dc" class="page">
+                  <tr>
+                    <td><p>  <b><font size="3">1.&nbsp; &nbsp;<img src="images/callout_news.jpg" width="230" height="292" align="right" hspace="15" vspace="15">Please 
+					note Edge Yoga will be on a modified schedule starting 
+					Friday 12/23 to Sunday 1/1:</font></b></p>
+					<p>  <font size="3"><b>Friday 12/23: 12 to 1:00 PM Yoga I</b></font></p>
+					<p>  <font size="3"><b>Saturday 12/24: No Class Happy 
+					Holidays!</b></font></p>
+					<p>  <font size="3"><b>Sunday 12/25: No Class Happy 
+					Holidays!</b></font></p>
+					<p>  <font size="3"><b>Monday 12/26: 9 to 10:15 AM Yoga I &amp; 
+					6 to 7:15 PM Mixed Level Yoga I </b></font></p>
+					<p>  <font size="3"><b>Tuesday 12/27: 
+					6 to 7:15 PM Mixed Level Yoga I</b></font></p>
+					<p>  <font size="3"><b>Wednesday 12/28: 6 to 7:15 PM Yoga I 
+					&amp; 7:30 to 8:45 PM Mixed Level Yoga I</b></font></p>
+					<p>  <font size="3"><b>Thursday 12/29: 12 to 1:00 PM Yoga I 
+					&amp; 6 to 7:15 PM Mixed Level Yoga I</b></font></p>
+					<p>  <font size="3"><b>Friday 12/30: 12 to 1:00 PM Yoga I
+					</b></font></p>
+					<p>  <font size="3"><b>Saturday 12/31 No Class Happy 
+					Holidays!</b></font></p>
+					<p>  <font size="3"><b>Sunday 1/1 No Class Happy Holidays!</b></font></p>
+					<p>  
+					<b>
+					&nbsp;</b></p>
+					</td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+        <td><img src="images/spacer.gif" width="47" height="10" /></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><!--#include file="footer.html"-->
+		</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="images/footer.gif" width="991" height="34" /></td>
+  </tr>
+</table>
+</body>
+</html>
