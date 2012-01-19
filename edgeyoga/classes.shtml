@@ -64,7 +64,6 @@ Math.floor((Math.random() * 10))
                         <tr>
                           <td><p align="center" class="callouttext">&nbsp;</p></td>
                           <td bgcolor="#4b4b4b">
-<!--	<div style="position: absolute; width: 100px; height: 124px; z-index: 1; left:717px; top:324px" id="layer1"> awoods -->
 <APPLET archive = "Old%20Site/ptviewer.jar" code="ptviewer.class" width=175 height=126>
 <PARAM NAME=file value="edge123_pano.jpg">
 <PARAM name=wait value="edge_wait.gif">
@@ -89,9 +88,6 @@ Math.floor((Math.random() * 10))
 <PARAM NAME="shotspot5" VALUE=" x278 y218 a294 b238 u'ptviewer:startAutoPan(0, 0, 1.01)' ">
 <PARAM NAME="shotspot6" VALUE=" x302 y217 a355 b238 u'http://www.easypano.com/' t'_blank' ">
 </APPLET></div>
-&nbsp;<p>&nbsp;</p>
-							<p>&nbsp;</p>
-							<p>&nbsp;</p>
 							<p align="center">
 							<span class="callouttext">Click on the above photo 
 							for a virtual tour of our studio!</span></p>
