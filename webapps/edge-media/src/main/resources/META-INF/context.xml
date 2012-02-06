@@ -1,0 +1,20 @@
+<!--  CONTEXT added per JNDI How-to for datasource setup  -->
+<Context reloadable="false">
+
+  <!--
+      NOTE: This file is replaced at build-time by
+              src/main/resources/war/META-INF/context.xml
+  -->
+  <Resource
+    name="jdbc/edge_db"
+    auth="Application"
+    type="javax.sql.DataSource"
+    maxActive="100"
+    maxIdle="30"
+    maxWait="10000"
+    username="${edge.database.username}"
+    password="${edge.database.password}"
+    driverClassName="com.mysql.jdbc.Driver"
+    url="${edge.database.connnection.url}"/>
+
+</Context>

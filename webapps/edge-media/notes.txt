@@ -1,0 +1,7 @@
+start duracloud instance
+scp ~/Document/download/java/j2..bin to instance
+scp ~/Document/download/apache/tomcat/apache-5.5...gz to instance
+sudo apt-get update
+sudo apt-get install alien dpkg-dev debhelper build-essential
+sudo alien j2sdk-1_4_2_19-linux-i586.rpm
+sudo service apache2 stop

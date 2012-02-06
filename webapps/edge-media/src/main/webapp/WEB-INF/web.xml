@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+  <web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
+      http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" version="2.4">
+
+  <servlet>
+    <servlet-name>hi</servlet-name>
+    <servlet-class>com.edge.media.service.rest.HelloWorld</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>id</servlet-name>
+    <servlet-class>com.edge.media.service.rest.IdServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>stream</servlet-name>
+    <servlet-class>com.edge.media.service.rest.StreamServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>hi</servlet-name>
+    <url-pattern>/hello.html</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>id</servlet-name>
+    <url-pattern>/id</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>stream</servlet-name>
+    <url-pattern>/stream/*</url-pattern>
+  </servlet-mapping>
+
+  <resource-ref>
+    <description>DB Connection</description>
+    <res-ref-name>jdbc/edge_db</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Application</res-auth>
+  </resource-ref>
+
+</web-app>
