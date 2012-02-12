@@ -7,8 +7,8 @@
  */
 package com.edge.media.service.rest;
 
-import com.edge.media.service.util.DateUtil;
 import com.edge.media.service.util.DbUtil;
+import com.edge.media.service.util.MemoryDbUtil;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -16,13 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Random;
 
 /**
@@ -56,7 +49,7 @@ public class IdServlet extends HttpServlet {
         int id = generateId();
 
         // verify that ID is unique
-        DbUtil dbUtil = new DbUtil();
+        DbUtil dbUtil = MemoryDbUtil.getInstance();
         while (dbUtil.notUnique(id)) {
             id = generateId();
         }

@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/favicon.ico" />
     <title>
         Streaming with Edge Yoga
     </title>

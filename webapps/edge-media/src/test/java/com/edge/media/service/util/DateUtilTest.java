@@ -26,4 +26,5 @@ public class DateUtilTest extends TestCase {
         String dateTime = util.currentDateTime();
         Assert.assertNotNull(dateTime);
     }
+
 }

@@ -1,8 +1,8 @@
 package com.edge.media.service.rest;
 
 import com.edge.media.service.beans.StreamBean;
-import com.edge.media.service.util.DbUtil;
 import com.edge.media.service.util.HttpUtil;
+import com.edge.media.service.util.MemoryDbUtil;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -17,10 +17,10 @@ import java.io.IOException;
  */
 public class StreamServlet extends HttpServlet {
 
-    private static final String BASE_URL = "http://s3.amazonaws.com/aw-audio/";
-    private static final String DISPATCH_TARGET = "/jsp/audio-index.jsp";
+    private static final String BASE_URL = "http://s3.amazonaws.com/aw-edge-audio/";
+    private static final String DISPATCH_TARGET = "/jsp/stream.jsp";
 
-    private static final String MEMID_PARAM = "memid";
+    private static final String MEMID_PARAM = "mid";
     private static final String GUID_PARAM = "guid";
 
     private static final int DAYS_VALID = 1;
@@ -55,11 +55,10 @@ public class StreamServlet extends HttpServlet {
         int guid = getParameter(GUID_PARAM, request);
         int memid = getParameter(MEMID_PARAM, request);
 
-        new DbUtil().verifyNotExpired(guid, memid, DAYS_VALID);
+        MemoryDbUtil.getInstance().verifyNotExpired(guid, memid, DAYS_VALID);
 
         // determine stream name
         String name = getPathInfo(request);
-
 
         new HttpUtil().verifyUrl(BASE_URL, name, ".mp3");
 

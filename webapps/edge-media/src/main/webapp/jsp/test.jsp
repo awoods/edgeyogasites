@@ -7,6 +7,7 @@ select * from useids
 
 <html>
   <head>
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/favicon.ico" />
     <title>DB Test</title>
   </head>
   <body>

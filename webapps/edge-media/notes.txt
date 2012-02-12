@@ -1,3 +1,11 @@
+h2. Config
+# set media link to something like: 
+** http://edgeyoga.com:9080/media-1.0.0/stream/2012-02-07-yoga1
+# set handshake url to:
+** http://edgeyoga.com/db/id.php , or better (not yet, currently issue with MBO not sending 'Content-Length' in POST)
+** http://edgeyoga.com:9080/media-1.0.0/id (currently issue with MBO choking on 'port')
+
+h2. Test
 start duracloud instance
 scp ~/Document/download/java/j2..bin to instance
 scp ~/Document/download/apache/tomcat/apache-5.5...gz to instance
