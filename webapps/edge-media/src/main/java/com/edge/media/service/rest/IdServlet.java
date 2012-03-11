@@ -8,7 +8,7 @@
 package com.edge.media.service.rest;
 
 import com.edge.media.service.util.DbUtil;
-import com.edge.media.service.util.MemoryDbUtil;
+import com.edge.media.service.util.SqlDbUtil;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -49,7 +49,7 @@ public class IdServlet extends HttpServlet {
         int id = generateId();
 
         // verify that ID is unique
-        DbUtil dbUtil = MemoryDbUtil.getInstance();
+        DbUtil dbUtil = new SqlDbUtil();
         while (dbUtil.notUnique(id)) {
             id = generateId();
         }

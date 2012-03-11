@@ -1,8 +1,9 @@
 package com.edge.media.service.rest;
 
 import com.edge.media.service.beans.StreamBean;
+import com.edge.media.service.util.DbUtil;
 import com.edge.media.service.util.HttpUtil;
-import com.edge.media.service.util.MemoryDbUtil;
+import com.edge.media.service.util.SqlDbUtil;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -55,7 +56,7 @@ public class StreamServlet extends HttpServlet {
         int guid = getParameter(GUID_PARAM, request);
         int memid = getParameter(MEMID_PARAM, request);
 
-        MemoryDbUtil.getInstance().verifyNotExpired(guid, memid, DAYS_VALID);
+        new SqlDbUtil().verifyNotExpired(guid, memid, DAYS_VALID);
 
         // determine stream name
         String name = getPathInfo(request);
